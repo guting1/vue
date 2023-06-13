@@ -7,6 +7,7 @@
                     <el-menu-item index="/home/advertis">广告管理</el-menu-item>
                     <el-menu-item index="/home/product">产品管理</el-menu-item>
                     <el-menu-item index="/home/subjecta">专题管理</el-menu-item>
+                    <el-menu-item index="/home/subjecta">菜单五</el-menu-item>
                 </el-menu>
                 <el-button type="primary" plain @click="doShop()">
                     <el-icon><View /></el-icon>

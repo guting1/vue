@@ -1,5 +1,4 @@
 <template>
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
     <div>
         <el-page-header @back="goBack">
         </el-page-header>
