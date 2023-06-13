@@ -30,7 +30,7 @@ export default {
             Msg.success('登录成功')
             this.$router.push('/home')
         }else{
-            Msg.fail('账号密码不争取')
+            Msg.fail('账号密码不正确！')
         }
     }
    },
